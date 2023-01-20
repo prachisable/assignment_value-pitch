@@ -1,0 +1,23 @@
+.text-center {
+  text-align: center;
+  color: black;
+  background-color: chocolate;
+
+}
+.TableCell {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: skyblue;
+  color: white;
+
+}
+.container {
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  background-color: darkgrey;
+  text-align: center;
+  align-content: flex;
+  
+}
