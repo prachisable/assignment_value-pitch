@@ -11,6 +11,14 @@
   color: white;
 
 }
+.custom-select {
+  width: min-content;
+  justify-content: center;
+  align-items: center;
+  width:1350px;
+  display:flex;
+ }
+ 
 .container {
   height: 100%;
   width: 100%;

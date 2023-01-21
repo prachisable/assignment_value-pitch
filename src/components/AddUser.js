@@ -158,13 +158,7 @@ export default function AddUser() {
 
               <div>
                 <label>Country</label>
-                <div
-                  class="custom-select"
-                  justifyContent="center"
-                  alignItems="center"
-                  width="200px"
-                  display="flex"
-                >
+                <div class="custom-select">
                   <Select
                     options={options}
                     value={
